@@ -23,15 +23,12 @@ Check out my repositories to see my work, or reach out to discuss ideas and oppo
   - [osTicket: Prerequisites and Installation](https://github.com/isuamfonw/OsTicket-Lab)
   - [osTicket: Ticket Lifecycle](https://github.com/isuamfonw/ticket-lifecycle/blob/main/README.md#ticket-lifecycle-stages)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/isuamfonw/configure-AD)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/isuamfonw/Azure-Network-Protocols/blob/main/README.md)
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+
+[linkedin]: https://linkedin.com/in/isuamfonw
