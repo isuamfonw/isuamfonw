@@ -21,7 +21,7 @@ Check out my repositories to see my work, or reach out to discuss ideas and oppo
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/isuamfonw/OsTicket-Lab)
-  - [osTicket: Ticket Lifecycle (https://github.com/isuamfonw/ticket-lifecycle/blob/main/README.md#ticket-lifecycle-stages)
+  - [osTicket: Ticket Lifecycle](https://github.com/isuamfonw/ticket-lifecycle/blob/main/README.md#ticket-lifecycle-stages)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
