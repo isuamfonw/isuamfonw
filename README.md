@@ -25,6 +25,10 @@ Check out my repositories to see my work, or reach out to discuss ideas and oppo
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/isuamfonw/configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/isuamfonw/Azure-Network-Protocols/blob/main/README.md)
+- <b>Scripting and Automation</b>
+  - [Automation Using PowerShell](https://github.com/isuamfonw/Automation-using-Powershell/tree/main)
+  - [Automation Using PowerShell with SQL](https://github.com/isuamfonw/-Automation-using-Powershell2)
+
 
 <h2>🤳Connect with me:</h2>
 
